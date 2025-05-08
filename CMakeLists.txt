@@ -27,6 +27,7 @@ set(vasm_sources
     output_vobj.c
     output_hunk.c
     output_aout.c
+    output_atari_com.c
     output_tos.c
     output_xfile.c
     output_srec.c
